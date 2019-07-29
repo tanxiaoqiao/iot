@@ -363,7 +363,6 @@
         </dependencies>
     </dependencyManagement>
 
-
     <!-- 多个仓库时，当私服不能访问而刚好又有私服独有的依赖时，其它仓库将下载不了本来就能访问的依赖 -->
     <repositories>
         <repository>
